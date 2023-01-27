@@ -37,8 +37,8 @@ Give the respective inputs for timing diagram and obtain the results.
 
  Program:
 Program to implement the given logic function using NAND and NOR gates and to verify its operations in quartus using Verilog programming.
-Developed by: Deepika.J
-RegisterNumber:  212221230016
+Developed by: J.B.Viniya
+RegisterNumber: 22008831 
 using NAND:
    module combo1(a,b,c,d,f);
    
